@@ -14,7 +14,7 @@ def main():
     run = True
     while run:
         print("1. Calculate area based on osu! sensitivity and screen ratio.")
-        print("0. Contunue to Quit")
+        print("0. Quite quit")
         choice = input("Enter the number of the option you want.\n")
 
         match choice:
